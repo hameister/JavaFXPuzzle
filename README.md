@@ -1,5 +1,3 @@
-JavaFXPuzzle
-============
 
 JavaFXPuzzle
 ============
