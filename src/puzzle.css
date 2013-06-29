@@ -1,0 +1,117 @@
+.root {
+    -fx-background-color:black;
+}
+
+.puzzle-reset-button {
+	-fx-font: 26 arial; -fx-base: #b6e7c9; -fx-label-padding:10,0,10,0;
+}
+
+.puzzle-field-style-no1 {
+	-fx-stroke: black;
+	-fx-fill: GREENYELLOW;
+	/*-fx-fill: radial-gradient(center 50.0% 50.0%, radius 10.0%, reflect, white, greenyellow );*/
+	
+}
+
+.puzzle-field-style-no2 {
+	-fx-stroke: black;
+	-fx-fill: BLUEVIOLET;
+/*	-fx-fill: radial-gradient(center 50.0% 50.0%, radius 10.0%, reflect, white, BLUEVIOLET );*/
+}
+
+.puzzle-field-style-no3 {
+	-fx-stroke: BLACK;
+	-fx-fill: YELLOW;	
+}
+
+.puzzle-field-style-no4 {
+	-fx-stroke: black;
+	-fx-fill: CYAN;
+}
+
+.puzzle-field-style-no5 {
+	-fx-stroke: black;
+	-fx-fill: RED;
+	
+}
+
+.puzzle-field-style-no6 {
+	-fx-stroke: black;
+	-fx-fill: BLUE;
+	
+}
+
+.puzzle-field-style-no7 {
+	-fx-stroke: black;
+	-fx-fill: GREEN;
+	
+}
+
+.puzzle-field-style-no8 {
+	-fx-stroke: black;
+	-fx-fill: DEEPPINK;
+	
+}
+
+.puzzle-field-style-no9 {
+	-fx-stroke: black;
+	-fx-fill: FUCHSIA;
+	
+}
+
+.puzzle-field-style-no10 {
+	-fx-stroke: black;
+	-fx-fill: LAVENDER;
+	
+}
+
+.puzzle-field-style-no11 {
+	-fx-stroke: black;
+	-fx-fill: CHOCOLATE;
+	
+}
+
+.puzzle-field-style-no12 {
+	-fx-stroke: black;
+	-fx-fill: INDIGO;
+	
+}
+
+.puzzle-field-style-no13 {
+	-fx-stroke: black;
+	-fx-fill: TURQUOISE;
+	
+}
+
+.puzzle-field-style-no14 {
+	-fx-stroke: black;
+	-fx-fill: TOMATO;
+	
+}
+
+.puzzle-field-style-no15 {
+	-fx-stroke: black;
+	-fx-fill: STEELBLUE;
+	
+}
+
+.text-puzzle {
+    -fx-fill: RED;
+    -fx-stroke: RED;
+    -fx-text-fill: RED;
+    
+    -fx-font-family: Verdana;
+    -fx-font-weight: bold;
+    -fx-font-size: 20.0;
+}
+
+.text-big-puzzle {
+    -fx-fill: RED;
+    -fx-stroke: GREENYELLOW;
+    -fx-text-fill: RED;
+    -fx-stroke-width: 3.0;
+    
+    -fx-font-family: Verdana;
+    -fx-font-weight: bold;
+    -fx-font-size: 36.0;
+}
